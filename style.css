@@ -1,0 +1,11 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  background:#e8a6a6;
+}
+
+.logo{
+  width: 450px;
+  height: 58px;
+  color: #ffffff;
+}
